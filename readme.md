@@ -1,5 +1,7 @@
 # German Translation
 
+(Drawn sub-titles in quotes)
+
 ## 1
 
 Wo sind denn alle hin?
