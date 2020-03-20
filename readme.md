@@ -100,7 +100,7 @@ Aber ich habe eine wichtige Aufgabe für Dich. Du musst die Langeweile verjagen.
 
 ## 11
 
-Du kannst eine Burg bauen, die die Langeweile ausperrt. Oder ein Buch lesen -- die Langeweile hasst das,
+Du kannst eine Burg bauen, die die Langeweile aussperrt. Oder ein Buch lesen -- die Langeweile hasst das,
 oder du malst ein Bild von der Langweile -- die Langweile mag es am Wenigsten wenn man sie zeichnet.
 
 Vor allem, wenn man sie mit Hasenohren auf dem Kopf zeichnet.
