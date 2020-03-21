@@ -54,3 +54,12 @@ body, .reveal {
     border: none !important;
     box-shadow: none !important;
 }
+
+.no-border-small
+{
+    margin: 0px 0px !important;
+    border: none !important;
+    box-shadow: none !important;
+    max-height: 75% !important;
+    max-width: 75% !important;
+}
