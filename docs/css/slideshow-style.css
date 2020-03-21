@@ -8,6 +8,10 @@
     font-style: normal;
 }
 
+html {
+    font-size: 42px;
+}
+
 body, .reveal {
     font-family: 'Bohemian-typewriter';
 }
@@ -16,4 +20,9 @@ body, .reveal {
 .reveal .slides > section.left
 {
     width: 50%
+}
+
+.reveal .slides > section.small
+{
+    font-size: 0.7rem;
 }
