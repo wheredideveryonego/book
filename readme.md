@@ -7,5 +7,5 @@ Corona crisis
 
 ## Usage
 
-This project uses teh reveal.js [HTML presentation framework](https://revealjs.com/#/). To do a translation, just copy the index.html and translate the text in between the markup.
+This project uses teh [reveal.js HTML presentation framework](https://revealjs.com/#/). To do a translation, just copy the index.html and translate the text in between the markup.
 
