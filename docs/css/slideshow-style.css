@@ -9,11 +9,12 @@
 }
 
 html {
-    font-size: 42px;
+    font-size: 48px;
 }
 
 body, .reveal {
     font-family: 'Bohemian-typewriter', serif;
+    font-size: inherit;
 }
 
 
@@ -40,4 +41,10 @@ body, .reveal {
 .reveal .slides > section.slim
 {
     width: 25%;
+}
+
+.no-border
+{
+    border: none !important;
+    box-shadow: none !important;
 }
