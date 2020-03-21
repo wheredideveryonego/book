@@ -6,6 +6,5 @@ Corona crisis
 
 ## Usage
 
-This project needs current nodejs and yarn
+This project uses teh reveal.js [HTML presentation framework](https://revealjs.com/#/). To do a translation, just copy the index.html and translate the text in between the markup.
 
-Use `yarn run build` to build the current version into the docs folder
