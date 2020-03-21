@@ -43,6 +43,12 @@ body, .reveal {
     width: 25%;
 }
 
+.reveal .slides > section.slimish
+{
+    width: 30%;
+}
+
+
 .no-border
 {
     border: none !important;
