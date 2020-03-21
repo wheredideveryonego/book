@@ -42,3 +42,9 @@ body, .reveal {
 {
     width: 25%;
 }
+
+.no-border
+{
+    border: none !important;
+    box-shadow: none !important;
+}
