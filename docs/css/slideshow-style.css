@@ -23,9 +23,9 @@ body, .reveal {
     width: 50%;
 }
 
-.reveal .slides > section.small
+.reveal .small
 {
-    font-size: 0.7rem;
+    font-size: 0.8rem;
 }
 
 .container
@@ -48,6 +48,8 @@ ul.inline li
 .col
 {
     flex: 1;
+    padding-left: 1ex;
+    padding-right: 1ex;
 }
 
 .reveal .slides > section.slim
@@ -58,6 +60,11 @@ ul.inline li
 .reveal .slides > section.slimish
 {
     width: 30%;
+}
+
+.reveal .slides > section.leftish
+{
+    width: 40%;
 }
 
 
