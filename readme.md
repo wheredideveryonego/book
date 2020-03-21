@@ -3,6 +3,7 @@
 Translated online versions of the "Where did everyone go?" children's book helping kids to deal with the 
 Corona crisis
 
+[Online version](https://wheredideveryonego.github.io/book/#/)
 
 ## Usage
 
