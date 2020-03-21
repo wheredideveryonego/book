@@ -1,12 +1,5 @@
 
-section.rel
+.reveal .slides > section.left
 {
-    position: relative;
-}
-#fragment-1-1
-{
-}
-
-#fragment-1-2
-{
+    width: 50%
 }
