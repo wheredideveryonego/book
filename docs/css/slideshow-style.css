@@ -19,7 +19,7 @@ body, .reveal {
 
 .reveal .slides > section.left
 {
-    width: 50%
+    width: 50%;
 }
 
 .reveal .slides > section.small
@@ -35,4 +35,9 @@ body, .reveal {
 .col
 {
     flex: 1;
+}
+
+.reveal .slides > section.slim
+{
+    width: 30%;
 }
