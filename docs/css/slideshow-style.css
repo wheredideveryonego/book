@@ -33,6 +33,18 @@ body, .reveal {
     display: flex;
 }
 
+ul.inline
+{
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+ul.inline li
+{
+    display: inline-block;
+}
+
 .col
 {
     flex: 1;
