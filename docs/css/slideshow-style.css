@@ -26,3 +26,13 @@ body, .reveal {
 {
     font-size: 0.7rem;
 }
+
+.container
+{
+    display: flex;
+}
+
+.col
+{
+    flex: 1;
+}
