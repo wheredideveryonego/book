@@ -1,3 +1,17 @@
+@font-face {
+    font-family: 'Bohemian-typewriter';
+    src:  url('Bohemian-typewriter.ttf.woff') format('woff'),
+    url('Bohemian-typewriter.ttf.svg#Bohemian-typewriter') format('svg'),
+    url('Bohemian-typewriter.ttf.eot'),
+    url('Bohemian-typewriter.eot?#iefix') format('embedded-opentype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+body, .reveal {
+    font-family: 'Bohemian-typewriter';
+}
+
 
 .reveal .slides > section.left
 {
