@@ -1,6 +1,6 @@
 -0-
 ```
-Où sont ils tous passés ?
+Où sont-ils tous passés ?
 
 Ecrit et dessiné par Ian S. Thomas 
 ```
@@ -15,7 +15,7 @@ Un livre pour rester à la maison.
 Si tu regardes par la fenêtre tu peux te demander : "Pourquoi on est tous enfermés?"
 
 ```
-Que s'est il passé à l'extérieur ?
+Que s'est-il passé à l'extérieur ?
 ```
 
 Il est toujours là ? Quelqu'un l'a emporté ? Où sont en train de jouer tous les autres ?
@@ -47,18 +47,18 @@ combien on s'aime
 
 
 -6-
-On peux aussi se laver les mains pour montrer qu'on fait attention et pour se protéger, soiis même et sa famille, des microbes. 
+On peux aussi se laver les mains pour montrer qu'on fait attention et pour se protéger, soi-même et sa famille, des microbes. 
 
 Tu peux te demander, combien de temps on doit se les laver ?
 
-Aussi longtemps que cela te prends pour chanter "Joyeux Anniversaire" deux fois. 
+Aussi longtemps que cela te prend pour chanter "Joyeux Anniversaire" deux fois. 
 ```
 Joyeux Anniversaire
 ```
 Si tu veux, tu peux imaginer que c'est l'anniversaire de tes mains.
 
 -7-
-Peut être que tu de demande, qu'arrivera-t-il si je ne me sens pas bien ? Ou alors si tes parents ne se sentent pas bien ?
+Peut être que tu te demandes, qu'arrivera-t-il si je ne me sens pas bien ? Ou alors si tes parents ne se sentent pas bien ?
 
 Ceux qui ne se sentent pas bien auront des médicaments, des tas de livres à lire, des fleurs et peut-être de la jelly. 
 ```
@@ -83,33 +83,33 @@ Mais j'ai un travail important pour toi. Je veux que tu chasses l'ennui.
 -10-
 
 Tu peux construire un fort en coussins pour repousser l'ennui, ou lire un livre (l'ennui déteste ça) ou dessiner une image de l'ennui (ce que l'ennui déteste le plus c'est avoir un dessin de lui). 
-Surtout si tu le dessine avec des oreilles de lapin sur la tête.
+Surtout si tu le dessines avec des oreilles de lapin sur la tête.
 ```
 L'ENNUI
 ```
 
 -11-
-Nous allons passer beaucoup de temps enssembles et beaucoup moins de temps avec nos amis. Mais si nos amis nous manquent, on peux les appeler et leur faire des grimaces et chasser l'ennui ensembles. 
+Nous allons passer beaucoup de temps enssemble et beaucoup moins de temps avec nos amis. Mais si nos amis nous manquent, on peut les appeler et leur faire des grimaces et chasser l'ennui ensemble. 
 ```
 Ensembles
 ```
 
 -12-
-Pour le moment, nous sommes ensembles et on peux faire toutes les choses qu'on voulais faire comme ranger nos chambres. Ou alors construire un vaisseau spacial à la place. 
+Pour le moment, nous sommes ensemble et on peux faire toutes les choses qu'on voulait faire comme ranger nos chambres. Ou alors construire un vaisseau spacial à la place. 
 ```
 Vaisseau spacial
 ```
 
 -13-
-Et même si on finis par être dans le bazard, on sera ici et ça devrait aller. Peut être qu'on ne pourra pas faire tout ce qu'on veux mais c'est parce qu'on veux que tout le monde soit sain et sauf. 
-Parfois les choses peuvent faire peur mais je te promet qu'on va rester ici tous ensembles. 
-On ne saura pas toujours ce qui va arriver mais je te promet que tout ira bien pour toi et qu'on prendra soin de tout.
+Et même si on finit par être dans le bazar, on sera ici et ça devrait aller. Peut être qu'on ne pourra pas faire tout ce qu'on veut mais c'est parce qu'on veut que tout le monde soit sain et sauf. 
+Parfois les choses peuvent faire peur mais je te promets qu'on va rester ici tous ensemble. 
+On ne saura pas toujours ce qui va arriver mais je te promets que tout ira bien pour toi et qu'on prendra soin de tout.
 ```
-Ensembles
+Ensemble
 ```
 
 -14-
-Et qu'on se retrouvera tous ensembles bientôt.
+Et qu'on se retrouvera tous ensemble bientôt.
 ```
 Bientôt.
 ```
@@ -123,4 +123,4 @@ I Wrote This For You: Just The Words 300 Things I Hope
 How To Be Happy: Not A Self-Help Book Intentional Dissonance
 I Am Incomplete Without You Every Word You Cannot Say*
 
-Si vous avez acheté ce livre, merci beaucoup mais vous pouvez aussi en profiter gratuitement. Nous vivons une époque extraordinaire et guider nos enfants et leur parler de ce qu'il se passe dans le monde peut être compliqué et j'espère que ce livre peux vousy aider. Si vous voulez aider ma famille et moi même, partagez ce livre ou achetez l'un de mes autres livres. Je vous souhaite du bonheur et j'espère que vous restez en sécurité.
+Si vous avez acheté ce livre, merci beaucoup mais vous pouvez aussi en profiter gratuitement. Nous vivons une époque extraordinaire et guider nos enfants et leur parler de ce qu'il se passe dans le monde peut être compliqué et j'espère que ce livre peut vous y aider. Si vous voulez aider ma famille et moi-même, partagez ce livre ou achetez l'un de mes autres livres. Je vous souhaite du bonheur et j'espère que vous restez en sécurité.
