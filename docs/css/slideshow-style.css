@@ -70,13 +70,15 @@ ul.inline li
 
 .no-border
 {
+    margin: 0 !important;
+    padding: 0 !important;
     border: none !important;
     box-shadow: none !important;
 }
 
 .no-border-small
 {
-    margin: 0px 0px !important;
+    margin: 0 !important;
     border: none !important;
     box-shadow: none !important;
     max-height: 75% !important;
