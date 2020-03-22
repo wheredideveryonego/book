@@ -82,3 +82,14 @@ ul.inline li
     max-height: 75% !important;
     max-width: 75% !important;
 }
+
+.gh-link
+{
+    background: #fff;
+    color: #222;
+    position: absolute;
+    font-size: 0.3rem;
+    opacity: 0.6;
+    top: 0;
+    right: 0;
+}
